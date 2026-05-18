@@ -8,4 +8,8 @@ I'm an aspiring Software Developer focused on building clean, practical, and use
 - 🌱 Currently learning AI, Python, CSS, JavaScript, React, and Node.js
 
 ## Featured Projects 💻
+
 Coming soon...
+
+## Get in Touch 📬
+- LinkedIn: [santiagof88](https://www.linkedin.com/in/santiagof88)
